@@ -8,3 +8,4 @@
 ## このrayを2Dマップ上で前進させ、マップの正方形である壁に当たるまで進める
 ## 壁に当たった場合はこの交点からプレイヤーまでの距離を計算し、この距離を使用して壁の高さを計算
 
+[参考](https://lodev-org.translate.goog/cgtutor/raycasting.html?_x_tr_sl=en&_x_tr_tl=ja&_x_tr_hl=ja&_x_tr_pto=wapp#Textured_Raycaster)
